@@ -14,7 +14,7 @@
 body {
     background-color: #a95149;
     background-image: url('../asset/image/back.jpg');
-    min-height: 700px;
+    min-height: 680px;
     display: flex;
     justify-content: center;
     align-items: center;
